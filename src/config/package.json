@@ -1,0 +1,23 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Livraria Casa do Código",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokyozinn/nodebasics.git"
+  },
+  "author": "André Yabiku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokyozinn/nodebasics/issues"
+  },
+  "homepage": "https://github.com/tokyozinn/nodebasics#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
